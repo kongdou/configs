@@ -1,2 +1,2 @@
-myconfig:
-  plat_name: jiangsu
+config-server:
+  name: config-server
